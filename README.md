@@ -1,1 +1,23 @@
-<img width="1612" height="772" alt="image" src="https://github.com/user-attachments/assets/985f6301-de66-4c95-92cf-8251f9b98fd9" />
+
+# Useful Web Tools
+
+A collection of small and practical web utilities.
+
+## Available Tools
+- Text Counter
+- Case Converter
+- URL Encoder
+- JSON Formatter
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Project Goals
+Build useful browser-based tools and improve frontend development skills.
+
+## Future Improvements
+- Add more tools
+- Improve responsive design
+- Add input validation
